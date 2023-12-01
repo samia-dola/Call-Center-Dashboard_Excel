@@ -1,6 +1,7 @@
 # Call Center Dashboard
 In this project, Call Center data of October 2020 is used. 
 Project analysing tasks consist of Data Cleaning, Data Analysing and Data Visualization. 
+The purpose of this project is to create a dashborad that shows the daily operations of the Call Center Department for easy monitoring and analysing.
 
 ## Data Cleaning
  In the data cleaning process the following tasks were completed:
